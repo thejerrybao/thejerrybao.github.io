@@ -1,9 +1,9 @@
 div.main-page {
-    margin: 0 200px;
+    margin: 0 15%;
 }
 
 div.header {
-    padding: 0 200px;
+    padding: 0 15%;
     background-color: #303E4D;
     display: block;
     white-space: nowrap;
