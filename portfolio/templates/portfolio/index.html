@@ -1,16 +1,34 @@
 <!DOCTYPE html>
+{% load staticfiles %}
 <head>
-    <title>Jerry Bao</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Jerry Jei-Rui Bao</title>
+
+    <!-- Google Fonts API: Open Sans -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400' rel='stylesheet' type='text/css'>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
-
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
-
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <!-- Portfolio CSS -->
+    <link rel="stylesheet" href="{% static "portfolio/css/styles.css" %}">
+    <link rel="stylesheet" href="{% static "portfolio/css/index.css" %}">
 </head>
 <body>
-    <h1>Website under construction...</h1>
+    <div class="header">
+        <img src="{% static "portfolio/images/jerrybao.png" %}" id="jerrybao">
+        <div class="header-title">
+            <h1 class="title">Jerry Jei-Rui Bao</h1>
+            <h5 class="title">Student @ University of California, Berkeley</h5>
+            <h5 class="title">Computer Science, B.A.</h5>
+        </div>
+    </div>
+
+    <!-- jQuery v2.1.3 -->
+    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 </body>
 </html>
