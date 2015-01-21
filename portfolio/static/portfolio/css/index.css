@@ -1,0 +1,31 @@
+div.main-page {
+    margin: 0 200px;
+}
+
+div.header {
+    padding: 0 200px;
+    background-color: #303E4D;
+    display: block;
+    white-space: nowrap;
+}
+
+div.header-title {
+    color: #ffffff;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1.title {
+    margin: 0 0 10px 0;
+}
+
+h5.title {
+    margin: 0;
+}
+
+img#jerrybao {
+    height: 210px;
+    padding: 25px;
+    vertical-align: middle;
+    display: inline-block;
+}
