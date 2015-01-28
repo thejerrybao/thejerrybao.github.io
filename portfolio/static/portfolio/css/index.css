@@ -87,6 +87,11 @@ p.indent {
     border-left: 2px solid #303E4D;
 }
 
+/* italics */
+.italic {
+    font-style: italic;
+}
+
 /* offset the anchor tags */
 div.anchor-offset {
     margin-top: -105px;
