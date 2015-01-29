@@ -4,7 +4,6 @@ div.header {
     height: 210px;
     background-color: #303E4D;
     display: block;
-    white-space: nowrap;
 }
 
 div.header-big, div.header-small {
