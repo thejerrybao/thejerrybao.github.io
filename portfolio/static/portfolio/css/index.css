@@ -91,6 +91,11 @@ p.indent {
     font-style: italic;
 }
 
+/* bold */
+.bold {
+    font-weight: bold;
+}
+
 /* offset the anchor tags */
 div.anchor-offset {
     margin-top: -105px;
@@ -106,6 +111,10 @@ div.footer {
 }
 
 /* all links */
+.bs-docs-sidebar {
+    max-width: 225px;
+}
+
 .bs-docs-sidebar .nav>li>a {
     color: #999;
     border-left: 2px solid transparent;

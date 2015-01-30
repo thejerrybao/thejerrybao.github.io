@@ -1,6 +1,6 @@
 $('body').scrollspy({
     target: '.bs-docs-sidebar',
-    offset: 0
+    offset: 2
 });
 
 var scrollVal;
