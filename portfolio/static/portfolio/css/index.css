@@ -4,6 +4,7 @@ div.header {
     height: 210px;
     background-color: #303E4D;
     display: block;
+    box-shadow: 0px 0px 5px #000;
 }
 
 div.header-big, div.header-small {
