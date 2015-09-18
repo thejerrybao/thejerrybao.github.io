@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jerry Jei-Rui Bao</title>
+ <link href="http://www.jerrybao.com/atom.xml" rel="self"/>
+ <link href="http://www.jerrybao.com/"/>
+ <updated>2015-09-18T17:43:52-07:00</updated>
+ <id>http://www.jerrybao.com</id>
+ <author>
+   <name>Jerry Bao</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome!</title>
+   <link href="http://www.jerrybao.com/2015/09/18/about/"/>
+   <updated>2015-09-18T00:00:00-07:00</updated>
+   <id>http://www.jerrybao.com/2015/09/18/about</id>
+   <content type="html">&lt;p&gt;Hi, I&amp;#39;m &lt;strong&gt;Jerry Bao&lt;/strong&gt;, a recent graduate from University of California, Berkeley with a degree in Computer Science. I&amp;#39;m an avid learner and self-starter; I like to work on projects that interest me in my spare time, which you can find in the &lt;a href=&quot;../projects&quot;&gt;Projects&lt;/a&gt; section. In addition, &lt;a href=&quot;https://www.dropbox.com/s/sn728i6k2qvzzq2/JerryBao-Resume.pdf?dl=0&quot;&gt;you can take a look at my resume&lt;/a&gt;, &lt;a href=&quot;https://www.github.com/thejerrybao&quot;&gt;scrutinize my work on GitHub&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/thejerrybao&quot;&gt;or connect with me through LinkedIn&lt;/a&gt;. I look forward to hearing from or connecting with you!&lt;/p&gt;
+
+&lt;p&gt;This website is still under construction and will probably go through a lot of change in the coming months.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
