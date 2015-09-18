@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jerry Jei-Rui Bao
+tagline:          'Software Engineer'
+description:      'University of California, Berkeley<br />Computer Science, B.A.<br /><br />Enthusiastic problem solver, tackling challenges by day, and flying airplanes by night.'
+url:              http://www.jerrybao.com
+baseurl:          /
+
+author:
+  name:           'Jerry Bao'
+  url:            http://www.jerrybao.com
+
+paginate:         5
+
+# Custom vars
+resume:           https://www.dropbox.com/s/sn728i6k2qvzzq2/JerryBao-Resume.pdf?dl=0
+linkedin:         https://www.linkedin.com/in/thejerrybao
+github:           https://www.github.com/thejerrybao
+profile_picture:  jerrybao.png

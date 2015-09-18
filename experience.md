@@ -1,0 +1,51 @@
+---
+layout: page
+title: Experience
+---
+
+### Coupa Software, Inc.
+*Software Engineer* | June 2015 - present<br />
+San Mateo, CA<br />
+
+>* Configured the Ruby on Rails application to serve dynamic error pages
+* Built a JavaScript app to allow the platform to be accessible to those with disabilities
+* Improving upon the approval logic of the application to enable complex approval chains
+* Responsible for core application components, building platform related technology and resolving application-wide bugs
+
+> Coupa Software, the award-winning leader in spend management, enables businesses everywhere to recognize bottom-line financial success via Savings-as-a-Service. More than 500 customers doing business in over 100 countries use Coupa to support business agility and reduce costs. Only Coupa provides an organic suite of true cloud applications including accounts payable, procurement, expense management, sourcing and inventory, allowing customers to realize a return on investment that starts within a few months and grows continually.
+
+### UC Berkeley, CS 61A (Structure and Interpretation of Computer Programs)
+*Lab Assistant* | Fall 2014, Spring 2015<br />
+Berkeley, CA<br />
+>* Assisted Teaching Assistants (TA) in lab and office hours by answering any questions students may have about Python, the class, or programming in general. 
+* Dedicated 3 hours a week to ensuring students understand the material and provide tutoring when needed.
+
+> UC Berkeley's CS 61A is the largest class that Berkeley offers and is the introductory course for CS and EECS majors, providing a foundation in programming, not about how to use one particular programming language. It concentrates mostly on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.
+
+### Circle K International, California-Nevada-Hawaii (CNH) District
+*District Technology Chair* | April 2014 - March 2013<br />
+Rancho Cucamonga, CA<br />
+>* Revamped and maintained the district website and the Resource Database ([Website](www.cnhcirclek.org))
+* Overlooked and assisted over 60 clubs in the areas of technology and publicity
+* Led a Public Relations Committee of 10 members from all over California, Nevada, and Hawaii to publicize district events and provide resources to clubs
+* Served alongside 20 other members on the District Board to achieve our goals of improving our district through its three tenets of service, leadership, and fellowship
+
+> Circle K International is the largest collegiate and university community service, leadership development, and friendship organization in the world. With more than 14,000 members in 17 nations, its members make a positive impact on the world every day. Through its three tenets, it empowers its members to serve, lead, and create life long friendships.
+
+### SYNQY Corporation
+*Software Engineer Intern* | January 2013 - May 2013<br />
+Pleasant Hill, CA<br />
+>* Developed a slideshow gallery with thumbnails in a modal that displayed content such as websites and images using PHP and jQuery
+* Implemented a drag and drop file uploading system
+* Assisted in the development of the SYNQY such as language choice and other design requirements
+
+> SYNQY is a brand management platform providing visibility and control over brand content within online retail sites. It helps solve the challenges of selling online: delivering rich, interactivity and an enhanced shopping experience directly at the point of shopper interest. Keeping shoppers on the site, engaging and leading them toward purchase.
+
+### Sequioa Technologies IMS
+*Software Engineer Intern* | July 2012 - August 2012<br />
+Pleasant Hill, CA<br />
+>* Re-designed the backend platform from which new websites are created
+* Deployed websites on a multi-tenant platform
+* Created proof of concept applications in PHP
+
+> Sequoia Technologies IMS is the leading provider of online marketing services to the HVAC and Telecom marketplaces and the preferred provider for Carrier and Toshiba Telecom Brand solutions. It helps them harness the power of their dealer network through locally-focused demand creation and demand conversion tools including a Software-as-a-Service (SaaS) based content and application syndication platform, a multi-tenant website content management system (CMS), search engine optimization, pay-per-click advertising, call tracking and aggregated customer data tracking.

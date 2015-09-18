@@ -1,4 +1,3 @@
-jerrybao.com
-============
+## Jerry Bao's Personal Website (jerrybao.com)
 
-Jerry Bao's Website
+Built using Jekyll. More to be written later.
