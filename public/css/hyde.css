@@ -41,7 +41,7 @@ html {
     font-size: 12px;
   }
 }
-@media (min-width: 58em) and (min-height: 42em) {
+@media (min-width: 58em) and (min-height: 44em) {
   html {
     font-size: 15px;
   }
