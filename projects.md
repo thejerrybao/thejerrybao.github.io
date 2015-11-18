@@ -5,13 +5,13 @@ title: Projects
 
 ### House of Cards: Multiplayer Deck [[repo](https://github.com/thejerrybao/houseofcards)]
 *Ruby on Rails*
->Creating an app that allows multiple players play with any number of decks, as if they were physically present at the same table.
+>Created an API that allowed users to play with any number of decks together.
 
 >In progress.
 
 ### Black Cleaver: Bill Splitter [[repo](https://github.com/thejerrybao/blackcleaver)]
 *Python (Django), Venmo API*
->Built an app that easily lets parties split restaurant bills using Venmo. Allows the person paying for the bill for everyone to mass charge users with Venmo using the Venmo API. 
+>Built an app that easily allows parties to split restaurant bills, enabling one person to mass charge users with Venmo using the Venmo API.
 
 >Currently being reworked.
 

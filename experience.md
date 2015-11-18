@@ -8,9 +8,9 @@ title: Experience
 San Mateo, CA<br />
 
 >* Configured the Ruby on Rails application to serve dynamic error pages
-* Built a JavaScript app to allow the platform to be accessible to those with disabilities
-* Improving upon the approval logic of the application to enable complex approval chains
-* Responsible for core application components, building platform related technology and resolving application-wide bugs
+* Deployed a JavaScript app to allow the platform to be accessible to those with disabilities
+* Improving the approval logic of the application to enable complex approval chains
+* Building and maintaining core application components that affect many products in our suite
 
 > Coupa Software, the award-winning leader in spend management, enables businesses everywhere to recognize bottom-line financial success via Savings-as-a-Service. More than 500 customers doing business in over 100 countries use Coupa to support business agility and reduce costs. Only Coupa provides an organic suite of true cloud applications including accounts payable, procurement, expense management, sourcing and inventory, allowing customers to realize a return on investment that starts within a few months and grows continually.
 
