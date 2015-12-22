@@ -17,7 +17,7 @@ title: Projects
 
 ### Caravan Party: Caravan Tracking App [[repo](https://github.com/thejerrybao/CaravanParty)]
 *Ruby on Rails, Android, Google Maps API*
->Designed an application for Android that tracks multiple cars going to the same destination and relays their location in real-time to all caravans. Cars were routed toward the destination set by the host caravan using the Google Maps API. Included a basic friend system so that users can invite friends to their caravans. Team project for Software Engineering (CS 169).
+>Designed an application for Android that tracks multiple cars going to the same destination and relays their location in real-time to all caravans. Cars were routed toward the destination set by the host caravan using the Google Maps API. Included a basic friend system so that users can invite friends to their caravans.
 
 ### Nimbus: Club Management System [[repo](https://github.com/thejerrybao/Nimbus)]
 *PHP, JavaScript, SQL*
