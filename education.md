@@ -4,7 +4,7 @@ title: Education
 ---
 
 ### University of California, Berkeley
-*Computer Science, B.A.*<br />
+*Bachelor of Arts, Computer Science*<br />
 Graduated May 2015
 
 * CS 161: Computer Security

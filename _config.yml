@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Jerry Jei-Rui Bao
 tagline:          'Software Engineer'
-description:      'University of California, Berkeley<br />Computer Science, B.A.<br /><br />Enthusiastic problem solver, tackling challenges by day, and flying airplanes by night.'
+description:      'University of California, Berkeley<br />Bachelor of Arts, Computer Science<br /><br />Enthusiastic problem solver, tackling challenges by day, and flying airplanes by night.'
 url:              http://www.jerrybao.com
 baseurl:          /
 
