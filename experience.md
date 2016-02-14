@@ -7,7 +7,7 @@ title: Experience
 *Senior Associate Software Development Engineer* | February 2016 - present<br />
 San Francisco, CA<br />
 
-> * Search Team
+> * SYMAN Search Team
 >
 > Workday is a leading provider of enterprise cloud applications for finance and human resources. Founded in 2005, Workday delivers financial management, human capital management, and analytics applications designed for the world's largest companies, educational institutions, and government agencies.
 
