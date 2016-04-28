@@ -8,6 +8,9 @@ title: Experience
 San Francisco, CA<br />
 
 > * SYMAN Search Team
+> * Delivering search relevance for different applications within Workday
+> * Building a scalable and fault tolerant search platform
+> * Tech Stack: Scala, Ruby, Java, Elasticsearch
 >
 > Workday is a leading provider of enterprise cloud applications for finance and human resources. Founded in 2005, Workday delivers financial management, human capital management, and analytics applications designed for the world's largest companies, educational institutions, and government agencies.
 
@@ -15,10 +18,11 @@ San Francisco, CA<br />
 *Software Engineer* | June 2015 - February 2016<br />
 San Mateo, CA<br />
 
-> * Configured the Ruby on Rails application to serve dynamic error pages
+> * Configured the application to serve dynamic error pages
 > * Created a settings page for users to configure their accounts
-> * Deployed a JavaScript app to allow the platform to be accessible to those with disabilities
+> * Enabled the platform to be accessible to those with disabilities
 > * Built and maintained core application components, such as approvals, that affect many products in our suite
+> * Tech Stack: Ruby on Rails, React, Javascript
 >
 > Coupa Software, the award-winning leader in spend management, enables businesses everywhere to recognize bottom-line financial success via Savings-as-a-Service. More than 500 customers doing business in over 100 countries use Coupa to support business agility and reduce costs. Only Coupa provides an organic suite of true cloud applications including accounts payable, procurement, expense management, sourcing, and inventory.
 
@@ -46,8 +50,9 @@ Rancho Cucamonga, CA<br />
 *Software Engineer Intern* | January 2013 - May 2013<br />
 Pleasant Hill, CA<br />
 
-> * Developed a slideshow gallery with thumbnails in a modal that displayed content such as websites and images using PHP and jQuery
+> * Developed a slideshow gallery with thumbnails in a modal that displayed content such as websites and images
 > * Implemented a drag and drop file uploading system
 > * Assisted in the development of the SYNQY such as language choice and other design requirements
+> * Tech Stack: PHP, jQuery, SQL
 >
 > SYNQY is a brand management platform providing visibility and control over brand content within online retail sites. It helps solve the challenges of selling online: delivering rich, interactivity and an enhanced shopping experience directly at the point of shopper interest. SYNQY helps keeps shoppers on the site, engaging and leading them toward purchase.
