@@ -1,26 +1,16 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-gems:             [jekyll-paginate]
+name: Jerry Bao
+tagline: Software Engineer
+description: Enthusiastic problem solver, tackling engineering challenges by day, flying airplanes by night.
+meta_description: Who the hell cares about the meta description?
 
-# Permalinks
-permalink:        pretty
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+baseurl: /
+domain_name: 'http://www.jerrybao.com'
+google_analytics: 'UA-59441929-1'
+gems: [jekyll-paginate]
 
-# Setup
-title:            Jerry Jei-Rui Bao
-tagline:          'Software Engineer'
-description:      'University of California, Berkeley<br />Bachelor of Arts, Computer Science<br /><br />Enthusiastic problem solver, tackling challenges by day, and flying airplanes by night.'
-url:              http://www.jerrybao.com
-baseurl:          /
-
-author:
-  name:           'Jerry Bao'
-  url:            http://www.jerrybao.com
-
-paginate:         5
-
-# Custom vars
-resume:           https://www.dropbox.com/s/sn728i6k2qvzzq2/JerryBao-Resume.pdf?dl=0
-linkedin:         https://www.linkedin.com/in/thejerrybao
-github:           https://www.github.com/thejerrybao
-profile_picture:  jerrybao.png
+# Details for the RSS feed generator
+url:            'http://www.jerrybao.com'
+author:         'Jerry Bao'
