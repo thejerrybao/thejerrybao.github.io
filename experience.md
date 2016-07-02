@@ -8,7 +8,7 @@ title: Experience
 February 2016 - present<br />
 San Francisco, CA
 
-I'm an engineer on the SYMAN Search Team, delivering search relevance for different applications within Workday. The team is also working on building a scalable and fault tolerant search platform for the future. Our tech stack consists of **Scala, Ruby, Java, and Elasticsearch**.
+I'm an engineer on the SYMAN Search Team, delivering search relevance for different applications within Workday. The team is also responsible for building a scalable and fault tolerant search platform. Our tech stack consists of **Scala, Ruby, Java, and Elasticsearch**.
 
 Workday is a leading provider of enterprise cloud applications for finance and human resources. Founded in 2005, Workday delivers financial management, human capital management, and analytics applications designed for the world's largest companies, educational institutions, and government agencies.
 
