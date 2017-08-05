@@ -10,7 +10,7 @@ San Francisco, CA
 
 Making search great! Interested in making search great with us? Send me a message!
 
-Team: **Search**
+Team: **Search**<br />
 Tech Stack: **Python, Hive/Hadoop**
 
 <hr>
@@ -22,7 +22,7 @@ San Francisco, CA
 
 Responsible for delivering search relevance for different applications within Workday. For Search, I built and shipped relevance search for reports in Workday, empowering reports to be more intelligent and useful. I also wrote scripts to deploy, maintain, and monitor our microservice and platform. I served as a Scrum Master for Search, helping our team improve week after week through constant reflection and iteration. The team's endeavor at the time was replacing the current search implementation with a more scalable and fault tolerant search microservice and Elasticsearch platform. Ownership spanned the entire search stack from development, to deployment and monitoring.
 
-Team: **Search**
+Team: **Search**<br />
 Tech Stack: **Scala, Java, Ruby, and Elasticsearch**
 
 <hr>
@@ -34,7 +34,7 @@ San Mateo, CA
 
 Responsible for core application components, such as approvals, that affect many products in our suite. Things I accomplished include configuring the application to serve dynamic error pages, enable the platform to be accessible to those with disabilities, and build a settings page for users to configure their accounts with.
 
-Team: **Core (Business Platform) Team**
+Team: **Core (Business Platform) Team**<br />
 Tech Stack: **Ruby on Rails, React, and Javascript**
 
 <hr>
