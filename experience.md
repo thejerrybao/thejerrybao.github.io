@@ -4,24 +4,26 @@ title: Experience
 ---
 
 ##### Reddit
-*Software Engineer*<br />
+*Software Engineer III*<br />
 June 2017 - present<br />
 San Francisco, CA
 
-Search ML/AI & Infrastructure.
+Making search great! Interested in making search great with us? Send me a message!
 
-*Level 3*.
+Team: **Search**
+Tech Stack: **Python, Hive/Hadoop**
 
 <hr>
 
 ##### Workday
-*Software Development Engineer*<br />
+*Software Development Engineer II*<br />
 February 2016 - June 2017<br />
 San Francisco, CA
 
-Team: Search. Responsible for delivering search relevance for different applications within Workday. For Search, I built and shipped relevance search for reports in Workday, empowering reports to be more intelligent and useful. I also wrote scripts to deploy, maintain, and monitor our microservice and platform. I served as a Scrum Master for Search, helping our team improve week after week through constant reflection and iteration. The team's endeavor at the time was replacing the current search implementation with a more scalable and fault tolerant search microservice and Elasticsearch platform. Ownership spanned the entire search stack from development, to deployment and monitoring.
+Responsible for delivering search relevance for different applications within Workday. For Search, I built and shipped relevance search for reports in Workday, empowering reports to be more intelligent and useful. I also wrote scripts to deploy, maintain, and monitor our microservice and platform. I served as a Scrum Master for Search, helping our team improve week after week through constant reflection and iteration. The team's endeavor at the time was replacing the current search implementation with a more scalable and fault tolerant search microservice and Elasticsearch platform. Ownership spanned the entire search stack from development, to deployment and monitoring.
 
-Tech Stack: **Scala, Java, Ruby, and Elasticsearch**. *Level 2*.
+Team: **Search**
+Tech Stack: **Scala, Java, Ruby, and Elasticsearch**
 
 <hr>
 
@@ -30,9 +32,10 @@ Tech Stack: **Scala, Java, Ruby, and Elasticsearch**. *Level 2*.
 June 2015 - February 2016<br />
 San Mateo, CA
 
-Team: Core (Business Platform) Team. Responsible for core application components, such as approvals, that affect many products in our suite. Things I accomplished include configuring the application to serve dynamic error pages, enable the platform to be accessible to those with disabilities, and build a settings page for users to configure their accounts with.
+Responsible for core application components, such as approvals, that affect many products in our suite. Things I accomplished include configuring the application to serve dynamic error pages, enable the platform to be accessible to those with disabilities, and build a settings page for users to configure their accounts with.
 
-Tech Stack: **Ruby on Rails, React, and Javascript**. *Level 1*.
+Team: **Core (Business Platform) Team**
+Tech Stack: **Ruby on Rails, React, and Javascript**
 
 <hr>
 
