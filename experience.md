@@ -11,7 +11,7 @@ San Francisco, CA
 Making search great! Interested in making search great with us? Send me a message!
 
 Team: **Search**<br />
-Tech Stack: **Python, Hive/Hadoop**
+Tech Stack: **Python, Hive/Hadoop, Fusion/Solr**
 
 <hr>
 
@@ -20,7 +20,14 @@ Tech Stack: **Python, Hive/Hadoop**
 February 2016 - June 2017<br />
 San Francisco, CA
 
-Responsible for delivering search relevance for different applications within Workday. For Search, I built and shipped relevance search for reports in Workday, empowering reports to be more intelligent and useful. I also wrote scripts to deploy, maintain, and monitor our microservice and platform. I served as a Scrum Master for Search, helping our team improve week after week through constant reflection and iteration. The team's endeavor at the time was replacing the current search implementation with a more scalable and fault tolerant search microservice and Elasticsearch platform. Ownership spanned the entire search stack from development, to deployment and monitoring.
+- Delivered search relevance in reports and the global search bar
+- Built and scaled out a search microservice and Elasticsearch platform to serve thousands of queries per second across multiple data centers
+- Created tooling to deploy and orchestrate our services
+- Setup alerting and metrics to ensure availability of search infrastructure
+- One of several engineers on-call for search, triaging criticality and solving time-sensitive issues
+- Lead the team through scrum as Scrum Master, focusing on velocity and collaboration growth through reflection and iteration
+- Involved in product architecture, development, deployment, metrics, and monitoring
+
 
 Team: **Search**<br />
 Tech Stack: **Scala, Java, Ruby, and Elasticsearch**
@@ -32,9 +39,13 @@ Tech Stack: **Scala, Java, Ruby, and Elasticsearch**
 June 2015 - February 2016<br />
 San Mateo, CA
 
-Responsible for core application components, such as approvals, that affect many products in our suite. Things I accomplished include configuring the application to serve dynamic error pages, enable the platform to be accessible to those with disabilities, and build a settings page for users to configure their accounts with.
+- Configured the application to serve dynamic error pages
+- Created a settings page for users to configure their accounts
+- Deployed a JavaScript app to allow the platform to be accessible to those with disabilities
+- Built and maintained core application components that affect many products in our suite
 
-Team: **Core (Business Platform) Team**<br />
+
+Team: **Core (Business Platform)**<br />
 Tech Stack: **Ruby on Rails, React, and Javascript**
 
 <hr>
