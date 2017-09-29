@@ -11,7 +11,7 @@ San Francisco, CA
 Making search great! Interested in making search great with us? Send me a message!
 
 Team: **Search**<br />
-Tech Stack: **Python, Hive/Hadoop, Fusion/Solr**
+Tech Stack: **Python, Hive/Hadoop, Kafka, Fusion/Solr**
 
 <hr>
 
@@ -20,17 +20,18 @@ Tech Stack: **Python, Hive/Hadoop, Fusion/Solr**
 February 2016 - June 2017<br />
 San Francisco, CA
 
-- Delivered search relevance in reports and the global search bar
-- Built and scaled out a search microservice and Elasticsearch platform to serve thousands of queries per second across multiple data centers
-- Created tooling to deploy and orchestrate our services
-- Setup alerting and metrics to ensure availability of search infrastructure
-- One of several engineers on-call for search, triaging criticality and solving time-sensitive issues
-- Lead the team through scrum as Scrum Master, focusing on velocity and collaboration growth through reflection and iteration
-- Involved in product architecture, development, deployment, metrics, and monitoring
+- Shipped a microservice built on top of Elasticsearch with search relevance, faceting, and filtering features for reporting
+- Scaled out Elasticsearch to handle storage growth and serve thousands of queries per second
+- Instrumented the search microservice with metrics logging to measure and improve latency of search results to sub one second response times
+- Wrote scripts to monitor and alert on infrastructure availability with Nagios
+- Participated in the on-call engineer rotation, triaging criticality and solving time-sensitive issues
+- Developed tooling to deploy and orchestrate our services with Capistrano
+- Served as a Scrum Master with focus on velocity management and collaboration growth through reflection and iteration
+- Engaged in product roadmap and architecture for search infrastructure
 
 
 Team: **Search**<br />
-Tech Stack: **Scala, Java, Ruby, and Elasticsearch**
+Tech Stack: **Scala, Java, Ruby, Elasticsearch**
 
 <hr>
 
@@ -39,14 +40,13 @@ Tech Stack: **Scala, Java, Ruby, and Elasticsearch**
 June 2015 - February 2016<br />
 San Mateo, CA
 
-- Configured the application to serve dynamic error pages
-- Created a settings page for users to configure their accounts
-- Deployed a JavaScript app to allow the platform to be accessible to those with disabilities
-- Built and maintained core application components that affect many products in our suite
+- Configured the platform to serve dynamic error pages, consolidating different error pages into one error page consistent with the rest of the platform
+- Constructed a new settings page that combined different settings across the application into one convenient location
+- Made improvements in 508 compliance to the platform, enabling accessibility to those with disabilities
 
 
 Team: **Core (Business Platform)**<br />
-Tech Stack: **Ruby on Rails, React, and Javascript**
+Tech Stack: **Ruby on Rails, JavaScript**
 
 <hr>
 
