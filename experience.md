@@ -8,10 +8,10 @@ title: Experience
 June 2017 - present<br />
 San Francisco, CA
 
-Making search great! Interested in making search great with us? Send me a message!
+Building out search infrastructure, indexing, and relevance for the next million cat posts.
 
 Team: **Search**<br />
-Tech Stack: **Python, Hive/Hadoop, Kafka, Fusion/Solr**
+Tech Stack: **Python, Scala, Spark, Solr**
 
 <hr>
 
@@ -20,15 +20,9 @@ Tech Stack: **Python, Hive/Hadoop, Kafka, Fusion/Solr**
 February 2016 - June 2017<br />
 San Francisco, CA
 
-- Shipped a microservice built on top of Elasticsearch with search relevance, faceting, and filtering features for reporting
-- Scaled out Elasticsearch to handle storage growth and serve thousands of queries per second
-- Instrumented the search microservice with metrics logging to measure and improve latency of search results to sub one second response times
-- Wrote scripts to monitor and alert on infrastructure availability with Nagios
-- Participated in the on-call engineer rotation, triaging criticality and solving time-sensitive issues
-- Developed tooling to deploy and orchestrate our services with Capistrano
-- Served as a Scrum Master with focus on velocity management and collaboration growth through reflection and iteration
-- Engaged in product roadmap and architecture for search infrastructure
+Most of my work revolved around shipping search features in a search microservice and scaling/monitoring multiple Elasticsearch clusters across multiple datacenters. Some of the features shipped include search relevance, faceting, and filtering for reporting products using Elasticsearch. On the infrastructure side of things, I helped scale out our clusters to handle terabyte storage and hundreds of queries per second growth, instrumented our service with metrics to improve search latency response times to <1s, and wrote scripts to monitor and alert on search infrastructure availability. I also participated in the on-call engineer rotation, triaging criticality and solving time-sensitive issues.
 
+In addition, I acted as Scrum Master for the team with focus on velocity management and collaboration growth through reflection and iteration.
 
 Team: **Search**<br />
 Tech Stack: **Scala, Java, Ruby, Elasticsearch**
@@ -40,10 +34,7 @@ Tech Stack: **Scala, Java, Ruby, Elasticsearch**
 June 2015 - February 2016<br />
 San Mateo, CA
 
-- Configured the platform to serve dynamic error pages, consolidating different error pages into one error page consistent with the rest of the platform
-- Constructed a new settings page that combined different settings across the application into one convenient location
-- Made improvements in 508 compliance to the platform, enabling accessibility to those with disabilities
-
+Built platform features such as dynamic error pages, 508 compliance, and a consolidated settings page.
 
 Team: **Core (Business Platform)**<br />
 Tech Stack: **Ruby on Rails, JavaScript**
