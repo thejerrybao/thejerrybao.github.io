@@ -6,11 +6,11 @@ meta_description: Who the hell cares about the meta description?
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-baseurl: 'http://www.jerrybao.com'
-domain_name: 'http://www.jerrybao.com'
+baseurl: 'https://jerrybao.com'
+domain_name: 'https://jerrybao.com'
 google_analytics: 'UA-59441929-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://www.jerrybao.com'
+url:            'https://jerrybao.com'
 author:         'Jerry Bao'
