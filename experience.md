@@ -8,7 +8,16 @@ title: Experience
 *Software Engineer III (June 2017 - October 2018)*<br />
 San Francisco, CA
 
-Building out search infrastructure, indexing, and relevance for the next million cat posts.
+Joined as engineer #2 on the Search team, responsible for architecting, building, and maintaining infrastructure, indexing, and relevancy for search products.
+
+Projects include:
+- New search infrastructure from scratch on AWS using Terraform and Puppet, improving availability and latency of search by 3x
+- Speeding up data re-indexing by 20x and optimizing reliability of incremental indexing
+- ETL platform for jobs such as search signals, trending topics, and related searches using Airflow, Solr, and AWS EMR
+- Detecting trending topics across Reddit and surfacing posts related to the trend
+- Experimenting and improving search relevancy by adding signals to documents, tuning weights, and modifying document schema
+- Creating tools to manage Solr cluster data and Zookeeper data, reducing manual infrastructure work needed
+- Establishing monitoring, alerting, and on-call rotation for the search stack (service and cluster)
 
 Team: **Search**<br />
 Tech Stack: **Python, Scala, Spark, Solr**
