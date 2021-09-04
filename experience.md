@@ -3,12 +3,23 @@ layout: page
 title: Experience
 ---
 
+##### Uber
+*Senior Software Engineer (March 2021 - present)*<br />
+*Software Engineer II (February 2019 - March 2021)*<br />
+San Francisco, CA
+
+To be updated. Check out my resume for information!
+
+Tech Stack: **Java, Flink, Spark, Hive, Hadoop, Elasticsearch**
+
+<hr>
+
 ##### Reddit
-*Senior Software Engineer (October 2018 - present)*<br />
+*Senior Software Engineer (October 2018 - February 2019)*<br />
 *Software Engineer III (June 2017 - October 2018)*<br />
 San Francisco, CA
 
-Joined as engineer #2 on the Search team, responsible for architecting, building, and maintaining infrastructure, indexing, and relevancy for search products.
+Engineer on the Search team, responsible for architecting, building, and maintaining infrastructure, indexing, and relevancy for search products.
 
 Projects include:
 - New search infrastructure from scratch on AWS using Terraform and Puppet, improving availability and latency of search by 3x
@@ -19,7 +30,6 @@ Projects include:
 - Creating tools to manage Solr cluster data and Zookeeper data, reducing manual infrastructure work needed
 - Establishing monitoring, alerting, and on-call rotation for the search stack (service and cluster)
 
-Team: **Search**<br />
 Tech Stack: **Python, Scala, Spark, Solr**
 
 <hr>
@@ -32,7 +42,6 @@ Most of my work revolved around shipping search features in a search microservic
 
 In addition, I acted as Scrum Master for the team with focus on velocity management and collaboration growth through reflection and iteration.
 
-Team: **Search**<br />
 Tech Stack: **Scala, Java, Ruby, Elasticsearch**
 
 <hr>
@@ -43,7 +52,6 @@ San Mateo, CA
 
 Built platform features such as dynamic error pages, 508 compliance, and a consolidated settings page.
 
-Team: **Core (Business Platform)**<br />
 Tech Stack: **Ruby on Rails, JavaScript**
 
 <hr>
