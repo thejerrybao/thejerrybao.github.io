@@ -8,7 +8,6 @@ highlighter: rouge
 paginate: 5
 baseurl: 'https://jerrybao.com/'
 domain_name: 'https://jerrybao.com/'
-google_analytics: 'UA-59441929-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
