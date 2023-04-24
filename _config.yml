@@ -47,7 +47,6 @@ resume_section_associations:    false
 resume_social_links:
   resume_github_url:            "https://github.com/thejerrybao/"
   resume_linkedin_url:          "https://www.linkedin.com/in/thejerrybao"
-  resume_website_url:           "https://jerrybao.com"
   resume_pdf_url:               "https://drive.google.com/file/d/0Bx0czQqw9NLfQkVqRFdKWUhvUEU/view?resourcekey=0-PHVns7G1vTdZG4uTgeS9Tw"
 resume_print_social_links:      true
 
