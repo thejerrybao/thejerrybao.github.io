@@ -1,15 +1,59 @@
-name: Jerry Bao
-tagline: Software Engineer
-description: Enthusiastic problem solver, tackling engineering challenges by day, flying airplanes by night.
-meta_description: Who the hell cares about the meta description?
+# Site settings
+title: "Jerry Bao • Senior Engineer"
+description: "Personal Website for Jerry Bao"
 
+# Build settings
 markdown: kramdown
-highlighter: rouge
-paginate: 5
-baseurl: 'https://jerrybao.com/'
-domain_name: 'https://jerrybao.com/'
-gems: [jekyll-paginate]
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# Details for the RSS feed generator
-url:            'https://jerrybao.com/'
-author:         'Jerry Bao'
+# Resume settings
+resume_avatar:                  "false"
+resume_name:                    "Jerry Bao"
+resume_title:                   "Senior Engineer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "thejerrybao@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "000-000-0000"
+resume_contact_address:         "N/A"
+
+resume_header_contact_info:     "Address • 000-000-0000 • Email"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>Hi, I’m Jerry Bao, a senior engineer experienced with data, search, infrastructure, distributed systems, and a tiny bit of machine learning. I have a proven record of managing and delivering complex and multi-stakeholder projects. I’m also an aviation enthusiast (with a private pilot certificate) that loves traveling and eating my way through the world.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        false
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/thejerrybao/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/thejerrybao"
+  resume_website_url:           "https://jerrybao.com"
+  resume_pdf_url:               "https://drive.google.com/file/d/0Bx0czQqw9NLfQkVqRFdKWUhvUEU/view?resourcekey=0-PHVns7G1vTdZG4uTgeS9Tw"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
