@@ -23,13 +23,12 @@ resume_contact_address:         "N/A"
 resume_header_contact_info:     "Address • 000-000-0000 • Email"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, I’m Jerry Bao, a senior engineer experienced with data, search, infrastructure, distributed systems, and a tiny bit of machine learning. I have a proven record of managing and delivering complex and multi-stakeholder projects. I’m also an aviation enthusiast (with a private pilot certificate) that loves traveling and eating my way through the world.</p>"
+resume_header_intro: "<p>Hi, I’m Jerry Bao, a hands-on engineer with 10+ years of experience in backend distributed systems, large data processing (batch and real-time streaming), and infrastructure. I manage and deliver complex multi-stakeholder projects and lead cross-org initiatives. I have also built, scaled, and evolved numerous large-scale architectures. In my spare time, I love traveling and eating my way through the world.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
